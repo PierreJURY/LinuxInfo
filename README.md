@@ -9,7 +9,7 @@ Les informations ci-dessous sont lister par le script :
 * Processeur
 * Nombre de coeur
 * Architecture
-* * Carte graphique
+* Carte graphique
 * Mémoire
 * Taille du swap
 * Listes des disques et leurs espace
