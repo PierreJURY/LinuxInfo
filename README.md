@@ -26,11 +26,11 @@ Compatible avec toutes les distributions récente
 ### wget
 
 ```bash
-wget https://raw.github.com/tdulcet/Linux-System-Information/master/info.sh -qO - | bash -s
+wget https://raw.githubusercontent.com/PierreJURY/LinuxInfo/main/info.sh -qO - | bash -s
 ```
 
 ### curl
 
 ```bash
-curl https://raw.github.com/tdulcet/Linux-System-Information/master/info.sh | bash -s
+curl https://raw.githubusercontent.com/PierreJURY/LinuxInfo/main/info.sh | bash -s
 ```
